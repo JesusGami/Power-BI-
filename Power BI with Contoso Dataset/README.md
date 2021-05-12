@@ -26,4 +26,4 @@ These are the report requirements:
 * Product filters
 
 The final report will look like this:
-![](Power%20BI%20with%20Contoso%20Dataset/FinalReport.jpg)
+![](dataset/FinalReport.jpg)
