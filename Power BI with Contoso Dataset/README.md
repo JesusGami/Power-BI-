@@ -25,3 +25,5 @@ These are the report requirements:
 * Geography and store filters
 * Product filters
 
+The final report will look like this:
+![](Power%20BI%20with%20Contoso%20Dataset/FinalReport.jpg)
